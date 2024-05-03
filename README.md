@@ -1,5 +1,4 @@
 # airbnb_price_prediction
-```
 
 ![Airbnb_platform](Airbnb_platform.png)
 
@@ -20,6 +19,8 @@ This comprehensive project begins from data collection to the final prediction p
 
 5. **Streamlit Web Application:** Build an interactive web application using Streamlit framework to provide a user-friendly interface for exploring the project insights and predictions. Users can input their listing details and receive estimated prices, facilitating a seamless experience for hosts and travelers.
 
+---
+
 ## Project Structure
 
 - **Classification.ipynb:** Jupyter notebook containing classification analysis.
@@ -28,6 +29,8 @@ This comprehensive project begins from data collection to the final prediction p
 - **Webscraping_Airbnb_Final.ipynb:** Jupyter notebook detailing the web scraping process.
 - **streamlit:** Directory containing files for the Streamlit web application.
   - **streamlit_final.py:** Main Python script for the Streamlit web application.
+
+---
 
 ## Running the Streamlit App
 
